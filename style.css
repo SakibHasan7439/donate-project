@@ -165,3 +165,37 @@
     font-family: Poppins;
     padding-right: 2rem;
 }
+
+.text-part {
+    width: 100%;
+    margin-bottom: 1.5rem;
+}
+
+.image-part {
+    width: 100%;
+    margin-bottom: 1.5rem;
+}
+
+.image-part img {
+    width: 100%;
+}
+
+.contribute {
+    border-radius: 5px;
+    background: rgb(255, 89, 89);
+    padding: 0.7rem 1.7rem;
+    border: none;
+    text-transform: capitalize;
+    color: #ffffff;
+    font-family: poppins;
+}
+
+.title-padding {
+    padding-right: 4rem;
+    margin-bottom: 1rem;
+}
+
+.span {
+    display: block;
+    margin-top: 1rem;
+}
