@@ -391,4 +391,29 @@
         padding: 4rem 0.1rem;
         margin-right: 1rem;
     }
+
+    .amount-inp {
+        display: block;
+        margin: 0 auto;
+        margin-bottom: 1rem;
+    }
+
+    .section-subtitle {
+        width: 50%;
+    }
+
+    .update-text .section-subtitle {
+        margin: 0 auto;
+        margin-top: 1rem;
+    }
+
+    .donate-heading .section-subtitle {
+        margin: 0 auto;
+        margin-top: 1rem;
+    }
+
+    .donate-header .section-subtitle {
+        margin: 0 auto;
+        margin-top: 1rem;
+    }
 }
